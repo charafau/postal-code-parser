@@ -1,6 +1,3 @@
-#postal-code-parser
-==================
-
 #Description
 
 Very simple project for parsing csv data and storing some part of it to xml format.
